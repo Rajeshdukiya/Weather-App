@@ -1,2 +1,10 @@
 # Weather-App
-real weather app in javascript
+Real Time Weather App 
+
+# USE in this app
+*HTML
+*CSS
+*JAVASCRIPT
+*API
+
+# API WEB = "https://openweathermap.org/"
